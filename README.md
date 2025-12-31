@@ -15,7 +15,7 @@
 ## 依赖
 
 ```bash
-pip install requests PyPDF2 pycryptodome
+pip install requests PyPDF2 pycryptodome base64
 ```
 
 ## 使用方法
